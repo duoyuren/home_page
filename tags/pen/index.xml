@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Pen on Duōyú Rén</title>
+    <link>https://duoyu.ren/tags/pen/</link>
+    <description>Recent content in Pen on Duōyú Rén</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mail@duoyu.ren (Duōyú Rén)</managingEditor>
+    <webMaster>mail@duoyu.ren (Duōyú Rén)</webMaster>
+    <copyright>&amp;copy;2013-{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 05 Dec 2023 11:01:55 +0800</lastBuildDate>
+    
+        <atom:link href="https://duoyu.ren/tags/pen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      <item>
+        <title>從入坑到破產的玩筆歷程</title>
+        <link>https://duoyu.ren/essay/2023_12_05_pen_ink/</link>
+        <pubDate>Tue, 05 Dec 2023 11:01:55 +0800</pubDate>
+        <author>mail@duoyu.ren (Duōyú Rén)</author>
+        <atom:modified>Fri, 12 Jan 2024 13:28:56 +0800</atom:modified>
+        <guid>https://duoyu.ren/essay/2023_12_05_pen_ink/</guid>
+        <description>&lt;h1 id=&#34;鋼筆使用經歷&#34;&gt;鋼筆使用經歷&lt;/h1&gt;
+&lt;p&gt;自初中開始用幾塊錢一支的鋼筆至今，與鋼筆的緣分也算分分合合，藕斷絲連。今秋總算又回到了鋼筆的懷抱。&lt;/p&gt;
+&lt;h2 id=&#34;中學記憶中的一支鋼筆&#34;&gt;中學記憶中的一支鋼筆&lt;/h2&gt;
+&lt;p&gt;初中時代，最早是在學校外面的小賣鋪買的幾塊錢一支的鋼筆，什麼牌子早已不記得了，在學業壓力之下，當時的使用體驗也早已煙消雲散。唯一有印象的便是每次上墨都沾得滿指頭都是墨水。&lt;/p&gt;</description>
+        
+        <dc:creator>Duōyú Rén</dc:creator>
+        <media:content url="https://duoyu.ren//blog/2023/20231205-00.5ef4t574f2io.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>pen</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>map[Serif:false Simpcn:false autonumbering:true categories:[備忘] draft:false enableFontawesome:true password:&lt;nil&gt;]</category>
+            
+          
+        
+      </item>
+    
+  </channel>
+</rss>

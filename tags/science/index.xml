@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Science on Duōyú Rén</title>
+    <link>https://duoyu.ren/tags/science/</link>
+    <description>Recent content in Science on Duōyú Rén</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mail@duoyu.ren (Duōyú Rén)</managingEditor>
+    <webMaster>mail@duoyu.ren (Duōyú Rén)</webMaster>
+    <copyright>&amp;copy;2013-{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 28 Oct 2019 23:53:54 +0800</lastBuildDate>
+    
+        <atom:link href="https://duoyu.ren/tags/science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      <item>
+        <title>從培根「請人代讀」說起</title>
+        <link>https://duoyu.ren/essay/2019_10_28_dushu_waibao/</link>
+        <pubDate>Mon, 28 Oct 2019 23:53:54 +0800</pubDate>
+        <author>mail@duoyu.ren (Duōyú Rén)</author>
+        <atom:modified>Mon, 23 Oct 2023 13:43:53 +0800</atom:modified>
+        <guid>https://duoyu.ren/essay/2019_10_28_dushu_waibao/</guid>
+        <description>&lt;h1 id=&#34;讀書可外包&#34;&gt;讀書可外包？&lt;/h1&gt;
+&lt;p&gt;五六百年前，&lt;z&gt;培根&lt;/z&gt;就在其名作《論讀書》(&lt;em&gt;Of Studies&lt;/em&gt; )中告誡「讀書人」，讀書「業務」可以外包！原話如下：&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+
+  
+
+
+&lt;div&gt;
+&lt;blockquote&gt;&lt;p&gt;書亦可&lt;strong&gt;請人代讀&lt;/strong&gt;，取其所作摘要，但只限題材較次或價值不高者。否則，書經提煉猶如水經蒸餾，淡而無味矣。&lt;/p&gt;</description>
+        
+        <dc:creator>Duōyú Rén</dc:creator>
+        <media:content url="https://duoyu.ren//blog/2019/20191028-00.5xs9b6vei874.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>science</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>map[Serif:false Simpcn:false categories:[妄議] draft:false password:&lt;nil&gt;]</category>
+            
+          
+        
+      </item>
+    
+  </channel>
+</rss>

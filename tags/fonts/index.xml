@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Fonts on Duōyú Rén</title>
+    <link>https://duoyu.ren/tags/fonts/</link>
+    <description>Recent content in Fonts on Duōyú Rén</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mail@duoyu.ren (Duōyú Rén)</managingEditor>
+    <webMaster>mail@duoyu.ren (Duōyú Rén)</webMaster>
+    <copyright>&amp;copy;2013-{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 15 Jan 2023 14:51:03 +0800</lastBuildDate>
+    
+        <atom:link href="https://duoyu.ren/tags/fonts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      <item>
+        <title>廿七種希臘文排版字體</title>
+        <link>https://duoyu.ren/essay/2023_01_15_greek_fonts/</link>
+        <pubDate>Sun, 15 Jan 2023 14:51:03 +0800</pubDate>
+        <author>mail@duoyu.ren (Duōyú Rén)</author>
+        <atom:modified>Wed, 21 Jan 2026 14:53:40 +0800</atom:modified>
+        <guid>https://duoyu.ren/essay/2023_01_15_greek_fonts/</guid>
+        <description>&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
+&lt;p&gt;此前整理邏輯學材料，需要用希臘字母抽象替代某些對象時都是以 TeX 命令實現。近來折騰通史材料，常常遇到古希臘人名與書名，難以用 TeX 命令逐個字母輸入，需要尋找支持希臘文排版的字型。經過幾天的蒐羅、測試、比對，發覺下列二十多種字型大體上可滿足古希臘文獻的排版。本文以下面兩句話及其對應的英、俄譯文簡單測試各字型的版式效果。&lt;/p&gt;</description>
+        
+        <dc:creator>Duōyú Rén</dc:creator>
+        <media:content url="https://duoyu.ren//blog/2023/20230115-00.3rarkl0zxk.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Greek</category>
+            
+          
+            
+              <category>fonts</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>map[Serif:false Simpcn:false categories:[備忘] draft:false password:&lt;nil&gt;]</category>
+            
+          
+        
+      </item>
+    
+  </channel>
+</rss>

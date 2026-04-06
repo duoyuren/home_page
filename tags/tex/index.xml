@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>TeX on Duōyú Rén</title>
+    <link>https://duoyu.ren/tags/tex/</link>
+    <description>Recent content in TeX on Duōyú Rén</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mail@duoyu.ren (Duōyú Rén)</managingEditor>
+    <webMaster>mail@duoyu.ren (Duōyú Rén)</webMaster>
+    <copyright>&amp;copy;2013-{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 21 May 2020 12:35:09 +0800</lastBuildDate>
+    
+        <atom:link href="https://duoyu.ren/tags/tex/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      <item>
+        <title>編不如抄，抄不如竊：徒手攢一本字典</title>
+        <link>https://duoyu.ren/essay/2020_05_21_diy_your_dictionary/</link>
+        <pubDate>Thu, 21 May 2020 12:35:09 +0800</pubDate>
+        <author>mail@duoyu.ren (Duōyú Rén)</author>
+        <atom:modified>Wed, 14 Jan 2026 11:42:45 +0800</atom:modified>
+        <guid>https://duoyu.ren/essay/2020_05_21_diy_your_dictionary/</guid>
+        <description>&lt;p&gt;大約四、五年前，本站&lt;z&gt;二狗&lt;/z&gt;站長正式着手編輯一本&lt;strong&gt;符合自身喜好&lt;/strong&gt;的自用字典。這些經歷記錄在&lt;a href=&#34;https://duoyuren.github.io/essay/2016_04_30_tex_hanyu_zidian/&#34; title=&#34;《TeX 漢語字典模板》&#34; class=&#34;icon_external&#34; rel=&#34;noopener external&#34; target=&#34;_blank&#34;&gt;《TeX 漢語字典模板》&lt;/a&gt;&lt;a href=&#34;https://superfluous-man.github.io/essay/2018_04_09_bianzhou_yiyu/&#34; title=&#34;《編舟囈語》&#34; class=&#34;icon_external&#34; rel=&#34;noopener external&#34; target=&#34;_blank&#34;&gt;《編舟囈語》&lt;/a&gt;兩篇文章中。雖然大體的版式結構早已確定，但具體內容的編輯卻遲遲難有進展。從這兩篇記錄來看，&lt;z&gt;二狗&lt;/z&gt;站長預估這是永遠不可能完成的任務，字裏行間怨念頗深，近乎絕望。&lt;/p&gt;
+&lt;p&gt;這次趁着冠病疫情閉關的契機，&lt;z&gt;二狗&lt;/z&gt;的思想迅速轉變，僅以幾天時間便「編輯」出了一份字典的草稿。爲什麼這次「效率」這麼高？&lt;/p&gt;</description>
+        
+        <dc:creator>Duōyú Rén</dc:creator>
+        <media:content url="https://duoyu.ren//blog/2020/20200521-00.pwo1d99alts.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>dictionary</category>
+            
+          
+            
+              <category>TeX</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>map[Serif:false Simpcn:false categories:[書版] draft:false password:&lt;nil&gt;]</category>
+            
+          
+        
+      </item>
+    
+      <item>
+        <title>基於 XeLaTeX 的中文直書方案</title>
+        <link>https://duoyu.ren/essay/2018_12_16_tex_hanyu_zhipai/</link>
+        <pubDate>Sun, 16 Dec 2018 18:03:24 +0800</pubDate>
+        <author>mail@duoyu.ren (Duōyú Rén)</author>
+        <atom:modified>Wed, 14 Jan 2026 11:40:41 +0800</atom:modified>
+        <guid>https://duoyu.ren/essay/2018_12_16_tex_hanyu_zhipai/</guid>
+        <description>&lt;p&gt;半個世紀以來，「橫排」逐漸成爲出版物排版的主流。十年前，境內還能偶爾看到一些出版社以「直排」方式出版一些古籍圖書。目下，僅有境外幾家出版社偶爾還以「直排」方式出版一些文史讀物。前幾日瀏覽素材，看到過去十年間網絡上零零散散的基於 LaTeX 的中文直排方案，逐一分析下來，發覺大都需要完善需求、更新源碼。自己久不讀書，讀「直排」書的機會就更少了。近來因飲酒吹風而感冒閉門，趁着這般光景，嘗試整理出一份基於 XeLaTeX 與 XeCJK 的中文直書方案。&lt;/p&gt;</description>
+        
+        <dc:creator>Duōyú Rén</dc:creator>
+        <media:content url="https://duoyu.ren//blog/2018/20181216-00.1pw996rxwvts.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>TeX</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>map[categories:[書版] draft:false password:&lt;nil&gt;]</category>
+            
+          
+        
+      </item>
+    
+      <item>
+        <title>MathJax 頁面測試</title>
+        <link>https://duoyu.ren/essay/2017_05_13_mathjax_test/</link>
+        <pubDate>Sat, 13 May 2017 09:29:32 +0800</pubDate>
+        <author>mail@duoyu.ren (Duōyú Rén)</author>
+        <atom:modified>Mon, 23 Oct 2023 13:40:17 +0800</atom:modified>
+        <guid>https://duoyu.ren/essay/2017_05_13_mathjax_test/</guid>
+        <description>&lt;p&gt;本頁面測試 MathJax 渲染網頁上的 $\LaTeX$ 公式。MathJax 與 Hugo 匹配使用時，因與 &lt;code&gt;emph&lt;/code&gt; 等標籤衝突，$\LaTeX$ 源碼中的下標和閉區間符號等可能有時需要稍加調整，如 &lt;code&gt;\sum\_{k=1}^n b\_k^2&lt;/code&gt; 中的 &lt;code&gt;\_&lt;/code&gt; 要寫成 &lt;code&gt;\_&lt;/code&gt;，如 &lt;code&gt;\xi\_{i} \in [x\_{i-1},x\_{i}]&lt;/code&gt; 或許要寫成 &lt;code&gt;\xi\_{i} \in \[x\_{i-1},x\_{i}\]&lt;/code&gt;，方能正確渲染。&lt;/p&gt;</description>
+        
+        <dc:creator>Duōyú Rén</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>TeX</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>map[categories:[站點] draft:false libraries:[mathjax] password:&lt;nil&gt;]</category>
+            
+          
+        
+      </item>
+    
+      <item>
+        <title>清世何須憂廟廊——漢語詩詞 LaTeX 樣式</title>
+        <link>https://duoyu.ren/essay/2016_12_11_tex_hanyu_shici/</link>
+        <pubDate>Sun, 11 Dec 2016 20:41:22 +0800</pubDate>
+        <author>mail@duoyu.ren (Duōyú Rén)</author>
+        <atom:modified>Wed, 14 Jan 2026 11:39:49 +0800</atom:modified>
+        <guid>https://duoyu.ren/essay/2016_12_11_tex_hanyu_shici/</guid>
+        <description>&lt;p&gt;Typing some Chinese classical poems, I found most of the early examples are created for layouting English poems. Below I give a layout example of Tang poems anthology. Rather than a general solution, it&amp;rsquo;s just a particular example. Pls put below packages into the preamble of your document.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c&#34;&gt;%漢字自動注音
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;xpinyin&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c&#34;&gt;%漢字注音設置
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\xpinyinsetup&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;ratio = .4,font =&lt;span class=&#34;k&#34;&gt;\ubufont&lt;/span&gt;,multiple=&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;\color&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;black&lt;span class=&#34;nb&#34;&gt;}}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h1 id=&#34;tang-poem-environment&#34;&gt;Tang Poem Environment&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;The Output:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/duoyuren/picx-images-hosting/raw/master/blog/2016/20161211-01.3h2odju4bgg0.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/duoyuren/picx-images-hosting/raw/master/blog/2016/20161211-02.7hd58s42ylmo.webp&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\section&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;薛正明&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;poemz&lt;span class=&#34;nb&#34;&gt;}{&lt;/span&gt;薛正明&lt;span class=&#34;nb&#34;&gt;}{&lt;/span&gt;遊鴈蕩&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	東風驛路馬蹄香，曉起行春到夕陽。&lt;span class=&#34;k&#34;&gt;\\&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	三月鶯啼花柳寺，幾家人住水雲鄉。&lt;span class=&#34;k&#34;&gt;\\&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	名山不用問樵字，清世何須憂廟廊。&lt;span class=&#34;k&#34;&gt;\\&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	且脫綸巾隨洞客，紫簫吹月夜天涼。
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;poemz&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;此詩本事又可參見&lt;span class=&#34;k&#34;&gt;\lref&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;王績《野望》&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;。另，&lt;span class=&#34;k&#34;&gt;\textsf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;曹丕&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;\emph&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;典論&lt;span class=&#34;k&#34;&gt;\bn&lt;/span&gt; 論文&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;：
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;「不假良史之辭，不托飛馳之勢，而聲名自傳於後。」&lt;span class=&#34;k&#34;&gt;\pref&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;虞世南《蟬》&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h1 id=&#34;detailed-design-process&#34;&gt;Detailed Design Process&lt;/h1&gt;
+&lt;h2 id=&#34;step-1-define-new-poem-environment&#34;&gt;Step 1: Define New Poem Environment&lt;/h2&gt;
+&lt;p&gt;Define New Poem Environment with &lt;a href=&#34;https://www.ctan.org/pkg/tcolorbox?lang=en&#34; title=&#34;tcolorbox&#34; class=&#34;icon_external&#34; rel=&#34;noopener external&#34; target=&#34;_blank&#34;&gt;tcolorbox&lt;/a&gt; and &lt;a href=&#34;https://www.ctan.org/pkg/xpinyin?lang=en&#34; title=&#34;xpinyin&#34; class=&#34;icon_external&#34; rel=&#34;noopener external&#34; target=&#34;_blank&#34;&gt;xpinyin&lt;/a&gt; Packages&lt;/p&gt;</description>
+        
+        <dc:creator>Duōyú Rén</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>TeX</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>map[categories:[書版] draft:false password:&lt;nil&gt;]</category>
+            
+          
+        
+      </item>
+    
+      <item>
+        <title>Tikz Examples in Re-composing McQuail&#39;s Textbook</title>
+        <link>https://duoyu.ren/essay/2016_11_24_tikz_mcquail_figures/</link>
+        <pubDate>Thu, 24 Nov 2016 18:13:38 +0000</pubDate>
+        <author>mail@duoyu.ren (Duōyú Rén)</author>
+        <atom:modified>Thu, 22 Jan 2026 02:36:35 +0800</atom:modified>
+        <guid>https://duoyu.ren/essay/2016_11_24_tikz_mcquail_figures/</guid>
+        <description>&lt;p&gt;Last month re-composed the classic Textbook, &lt;em&gt;&lt;a href=&#34;https://uk.sagepub.com/en-gb/asi/mcquails-mass-communication-theory/book234219#contents&#34; title=&#34;McQuail&amp;rsquo;s Mass Communication Theory&#34; class=&#34;icon_external&#34; rel=&#34;noopener external&#34; target=&#34;_blank&#34;&gt;McQuail&amp;rsquo;s Mass Communication Theory&lt;/a&gt;&lt;/em&gt;, the following are some tikz examples in re-making book illustrations. To try these examples, pls put below codes into the preamble of your document.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-LaTeX&#34; data-lang=&#34;LaTeX&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\usepackage&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;tikz&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt; &lt;span class=&#34;c&#34;&gt;% Required for drawing custom shapes
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\usetikzlibrary&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;arrows,calc,fit,matrix,positioning,shapes,shadows,trees,mindmap,tikzmark,arrows.meta&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h1 id=&#34;positioning-map-figure&#34;&gt;Positioning Map Figure&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;The Output:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/duoyuren/picx-images-hosting/raw/master/blog/2016/20161124-01.3qtat5cwoha.webp&#34; alt=&#34;figure17.1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The codes:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;23
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;24
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;25
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;26
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;27
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;28
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;29
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;30
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;31
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;32
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;33
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;34
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;35
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;36
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;37
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;38
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;39
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;40
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;41
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;42
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;43
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;44
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-LaTeX&#34; data-lang=&#34;LaTeX&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;figure&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;[htbp]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\centering&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;tikzpicture&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;[scale=.9,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	line/.style = &lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;draw=blue!50!gray!25, line width=2mm, 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;		&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Triangle[length=6mm,width=9mm]&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;-&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Triangle[length=6mm,width=9mm]&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	brand/.style = &lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;font=&lt;span class=&#34;k&#34;&gt;\small&lt;/span&gt;, text=blue!20!black!90, 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;		align=left,anchor=west&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\draw&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[help lines, color=gray!30, dashed]&lt;/span&gt; (-5.9,-6.9) grid (5.9,6.9);
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\draw&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[line]&lt;/span&gt; (-6,0) node[left](B)&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;\rotatebox&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;90&lt;span class=&#34;nb&#34;&gt;}{&lt;/span&gt;Short term&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	--(6,0) node[right]&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;\rotatebox&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;270&lt;span class=&#34;nb&#34;&gt;}{&lt;/span&gt;Long term&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\draw&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[line]&lt;/span&gt; (0,-7) node[below]&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Unplanned effects&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	--(0,7) node[above](A)&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Planned effects&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\node&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[align=center,text width=3cm]&lt;/span&gt; at (0,8) &lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;\profonta&lt;/span&gt; Intentionality&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\node&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[align=center]&lt;/span&gt; at (-7,0) &lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;\rotatebox&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;90&lt;span class=&#34;nb&#34;&gt;}{&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;\profonta&lt;/span&gt; Time&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;c&#34;&gt;%first quadrant
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\node&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[brand]&lt;/span&gt; at (1,1.5) &lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\bullet&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;Distribution of knowledge&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\node&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[brand]&lt;/span&gt; at (1.3,2.5) &lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\bullet&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;Diffusion of innovations&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\node&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[brand]&lt;/span&gt; at (1,3.5) &lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\bullet&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;News Diffusion&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\node&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[brand]&lt;/span&gt; at (1.3,5) &lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\bullet&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;Development diffusion&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;c&#34;&gt;%second quadrant
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\node&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[brand,anchor=east]&lt;/span&gt; at (-1,1) &lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Agenda-setting&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\bullet&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\node&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[brand,anchor=east]&lt;/span&gt; at (-1,1.5) &lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Framing&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\bullet&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\node&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[brand,anchor=west]&lt;/span&gt; at (-4,2.7) &lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\bullet&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;News learning&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\node&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[brand,anchor=east]&lt;/span&gt; at (-2.2,4) &lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Media campaign&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\bullet&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\node&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[brand,anchor=west]&lt;/span&gt; at (-5,5.3) &lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\bullet&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;Individual response&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\node&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[brand,anchor=west]&lt;/span&gt; at (-3.5,6.3) &lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\bullet&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;Propaganda&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;c&#34;&gt;%third quadrant
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\node&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[brand,anchor=east]&lt;/span&gt; at (-2.4,-2) &lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Individual reaction&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\bullet&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\node&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[brand,anchor=east]&lt;/span&gt; at (-2.4,-3.7) &lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Collective reaction&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\bullet&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\node&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[brand,anchor=east]&lt;/span&gt; at (-2.4,-5.7) &lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;Policy effects&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\bullet&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;c&#34;&gt;%Fourth quadrant
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\node&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[brand]&lt;/span&gt; at (3,-.8) &lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\bullet&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;Social control&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\node&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[brand]&lt;/span&gt; at (3,-1.6) &lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\bullet&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;Socialization&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\node&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[brand]&lt;/span&gt; at (.8,-2.4) &lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\bullet&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;Event outcomes&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\node&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[brand]&lt;/span&gt; at (1.9,-3.2) &lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\bullet&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;Reality defining&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\node&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[brand]&lt;/span&gt; at (2.3,-4) &lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\bullet&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;Institutional change&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\node&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[brand]&lt;/span&gt; at (.4,-4.8) &lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\bullet&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;Displacement&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\node&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[brand]&lt;/span&gt; at (4,-5.04) &lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\bullet&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;Cultural and&lt;span class=&#34;k&#34;&gt;\\&lt;/span&gt; social change&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\node&lt;/span&gt;&lt;span class=&#34;na&#34;&gt;[brand]&lt;/span&gt; at (2.8,-6.3) &lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\bullet&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$&lt;/span&gt;Social Integration&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;tikzpicture&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;	
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\caption&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;A typology of media effects. Effects can be located on two dimensions: that of time span and that of intentionality&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	&lt;span class=&#34;k&#34;&gt;\label&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;fig:typome&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{&lt;/span&gt;figure&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h1 id=&#34;matrix-map-figure&#34;&gt;Matrix Map Figure&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;The Output:&lt;/strong&gt;&lt;/p&gt;</description>
+        
+        <dc:creator>Duōyú Rén</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>TeX</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>map[categories:[書版] draft:false password:&lt;nil&gt;]</category>
+            
+          
+        
+      </item>
+    
+      <item>
+        <title>Zhmakeindex and the Indices Creating of Chinese Books</title>
+        <link>https://duoyu.ren/essay/2016_10_15_zhmakeindex/</link>
+        <pubDate>Sat, 15 Oct 2016 10:01:57 +0800</pubDate>
+        <author>mail@duoyu.ren (Duōyú Rén)</author>
+        <atom:modified>Thu, 22 Jan 2026 02:37:07 +0800</atom:modified>
+        <guid>https://duoyu.ren/essay/2016_10_15_zhmakeindex/</guid>
+        <description>&lt;p&gt;In some big documents, for example &lt;a href=&#34;https://superfluous-man.github.io/essay/20160430-tex-han-yu-zi-dian/&#34; title=&#34;The Cangjie Chinese-English Dictionary&#34; class=&#34;icon_external&#34; rel=&#34;noopener external&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;The Cangjie Chinese-English Dictionary&lt;/em&gt;&lt;/a&gt;, it is necessary both for authors and readers to create one or two keywords lists in the book appendices. These lists can help to find information quite efficiently. In this article, I introduce the &lt;a href=&#34;https://github.com/leo-liu/zhmakeindex&#34; title=&#34;zhmakeindex&#34; class=&#34;icon_external&#34; rel=&#34;noopener external&#34; target=&#34;_blank&#34;&gt;zhmakeindex&lt;/a&gt; program that aims to sort Chinese index entries.&lt;/p&gt;
+&lt;h1 id=&#34;generating-latex-indices-separately&#34;&gt;Gen­er­a­ting LaTeX Indices Separately&lt;/h1&gt;
+&lt;p&gt;With the LaTeX in­dex gen­er­a­tor &lt;a href=&#34;https://www.ctan.org/pkg/makeindex?lang=en&#34; title=&#34;makeindex&#34; class=&#34;icon_external&#34; rel=&#34;noopener external&#34; target=&#34;_blank&#34;&gt;makeindex&lt;/a&gt;, an index can be produced. If you want to create multiple indices in a book, you should use the &lt;a href=&#34;https://www.ctan.org/pkg/imakeidx&#34; title=&#34;imakeidx&#34; class=&#34;icon_external&#34; rel=&#34;noopener external&#34; target=&#34;_blank&#34;&gt;imakeidx&lt;/a&gt; package.&lt;/p&gt;</description>
+        
+        <dc:creator>Duōyú Rén</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>TeX</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>map[categories:[書版] draft:false]</category>
+            
+          
+        
+      </item>
+    
+      <item>
+        <title>TeX 漢語字典模板</title>
+        <link>https://duoyu.ren/essay/2016_04_30_tex_hanyu_zidian/</link>
+        <pubDate>Sat, 30 Apr 2016 21:57:33 +0800</pubDate>
+        <author>mail@duoyu.ren (Duōyú Rén)</author>
+        <atom:modified>Wed, 14 Jan 2026 11:39:13 +0800</atom:modified>
+        <guid>https://duoyu.ren/essay/2016_04_30_tex_hanyu_zidian/</guid>
+        <description>&lt;h1 id=&#34;full-of-sadness-in-my-heart&#34;&gt;Full of Sadness in My Heart&lt;/h1&gt;
+&lt;p&gt;這些天，一想到至死也不可能「獨立」「手工」「研編」出一部滿意的漢語辭書，便滿心傷悲。獨立者，不抄襲、不取藍本；手工者，較少依賴計算機輔助（實因未能掌握語料庫建設、語言處理等相關技能）；研編者，字字歷史與邏輯統一地寫出來。照這種方式試寫詞條，揣摩拿捏、定義取例，一天竟寫不完一個字頭，且沈跡下流、文獻稀缺、功力不濟，索性放棄（實因一毛錢都掙不到）。&lt;/p&gt;</description>
+        
+        <dc:creator>Duōyú Rén</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>TeX</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>map[Serif:false Simpcn:false categories:[書版] draft:false password:&lt;nil&gt;]</category>
+            
+          
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Russian on Duōyú Rén</title>
+    <link>https://duoyu.ren/tags/russian/</link>
+    <description>Recent content in Russian on Duōyú Rén</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mail@duoyu.ren (Duōyú Rén)</managingEditor>
+    <webMaster>mail@duoyu.ren (Duōyú Rén)</webMaster>
+    <copyright>&amp;copy;2013-{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 05 May 2016 18:30:51 +0800</lastBuildDate>
+    
+        <atom:link href="https://duoyu.ren/tags/russian/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      <item>
+        <title>《法學拉丁文教程》序言</title>
+        <link>https://duoyu.ren/essay/2016_05_05_law_latin/</link>
+        <pubDate>Thu, 05 May 2016 18:30:51 +0800</pubDate>
+        <author>mail@duoyu.ren (Duōyú Rén)</author>
+        <atom:modified>Mon, 23 Oct 2023 13:38:57 +0800</atom:modified>
+        <guid>https://duoyu.ren/essay/2016_05_05_law_latin/</guid>
+        <description>&lt;h1 id=&#34;the-role-of-humanities-in-legal-education&#34;&gt;The Role of Humanities in Legal Education&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.livelib.ru/book/1000195925&#34; title=&#34;法學敎育&#34; class=&#34;icon_external&#34; rel=&#34;noopener external&#34; target=&#34;_blank&#34;&gt;法學敎育&lt;/a&gt;在目前&lt;z&gt;俄國&lt;/z&gt;人文敎育體系中日漸重要。這與社會對法律專家的需求增加有關，伴隨著法學敎育質量的上昇、人文通識課程敎育的加強，社會對法科畢業生文化水準要求也日漸提高。現在學習法律的學生不只是未來的律師和法律工作者，而且還包括那些將要從事政治、商業、新聞諸行業的學生與知識階層。即便那些甫一入學就決心接受出路很窄的職業敎育的學生，要成爲專家，成爲通常所謂受過敎育的人，也不僅僅是要簡單地掌握法律技能和具有一套處理模式化材料的技能。&lt;/p&gt;
+&lt;p&gt;法律知識體系中，人文通識敎育的加強將明顯影響法學敎育。只有長於邏輯思考與言說、具有語言造詣和一定文化眼界的學生纔能真正理解法學及其基本研究對象——人的自由。&lt;/p&gt;</description>
+        
+        <dc:creator>Duōyú Rén</dc:creator>
+        <media:content url="https://duoyu.ren//blog/2016/20160505-00.39qaug4arvuo.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Russian</category>
+            
+          
+            
+              <category>translation</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>map[Serif:false Simpcn:false categories:[譯文] draft:false password:&lt;nil&gt;]</category>
+            
+          
+        
+      </item>
+    
+  </channel>
+</rss>

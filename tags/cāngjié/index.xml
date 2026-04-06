@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Cāngjié on Duōyú Rén</title>
+    <link>https://duoyu.ren/tags/c%C4%81ngji%C3%A9/</link>
+    <description>Recent content in Cāngjié on Duōyú Rén</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mail@duoyu.ren (Duōyú Rén)</managingEditor>
+    <webMaster>mail@duoyu.ren (Duōyú Rén)</webMaster>
+    <copyright>&amp;copy;2013-{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 17 Jul 2017 21:47:22 +0800</lastBuildDate>
+    
+        <atom:link href="https://duoyu.ren/tags/c%C4%81ngji%C3%A9/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      <item>
+        <title>蒼頡檢字法簡易入門文檔</title>
+        <link>https://duoyu.ren/essay/2017_07_17_cangjie_zima/</link>
+        <pubDate>Mon, 17 Jul 2017 21:47:22 +0800</pubDate>
+        <author>mail@duoyu.ren (Duōyú Rén)</author>
+        <atom:modified>Wed, 14 Jan 2026 11:39:57 +0800</atom:modified>
+        <guid>https://duoyu.ren/essay/2017_07_17_cangjie_zima/</guid>
+        <description>&lt;p&gt;僕在工廠務工，偶然需要使用 CorelDraw 排版些圖文。遂突發奇想，以此物採笨辦法打散漢字，拆筆畫手動着色，製作蒼頡檢字法五頁簡易入門文檔，僅供習者參考。全文圖片格式，手機愼入。&lt;/p&gt;</description>
+        
+        <dc:creator>Duōyú Rén</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Cāngjié</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>map[categories:[備忘] draft:false password:&lt;nil&gt;]</category>
+            
+          
+        
+      </item>
+    
+      <item>
+        <title>蒼頡檢字法字根典型字選</title>
+        <link>https://duoyu.ren/essay/2016_09_20_cangjie_lizi/</link>
+        <pubDate>Tue, 20 Sep 2016 17:56:18 +0800</pubDate>
+        <author>mail@duoyu.ren (Duōyú Rén)</author>
+        <atom:modified>Mon, 23 Oct 2023 13:39:20 +0800</atom:modified>
+        <guid>https://duoyu.ren/essay/2016_09_20_cangjie_lizi/</guid>
+        <description>&lt;h1 id=&#34;導言&#34;&gt;導言&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E8%92%BC%E9%A0%A1%E6%AA%A2%E5%AD%97%E6%B3%95&#34; title=&#34;蒼頡檢字法&#34; class=&#34;icon_external&#34; rel=&#34;noopener external&#34; target=&#34;_blank&#34;&gt;蒼頡檢字法&lt;/a&gt;，坊間亦稱「六代倉頡」，但其與通常所謂「三代倉頡」、「五代倉頡」差異較大，目的非僅供漢字&lt;strong&gt;輸入&lt;/strong&gt;，而在完整解決漢字&lt;strong&gt;檢索&lt;/strong&gt;及應用問題。&lt;/li&gt;
+&lt;li&gt;因&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E8%92%BC%E9%A0%A1%E6%AA%A2%E5%AD%97%E6%B3%95&#34; title=&#34;蒼頡檢字法&#34; class=&#34;icon_external&#34; rel=&#34;noopener external&#34; target=&#34;_blank&#34;&gt;蒼頡檢字法&lt;/a&gt;至今並無所謂「官方」版本釋出，據稱「原本並不公開，僅供與『&lt;z&gt;朱邦復&lt;/z&gt;工作室』有工作關係的人士，及部分文史專家學者使用」。因而本文所依據之字碼方案，係依據 &lt;a href=&#34;https://github.com/LEOYoon-Tsaw/Cangjie6&#34; title=&#34;LEOYoon-Tsaw&#34; class=&#34;icon_external&#34; rel=&#34;noopener external&#34; target=&#34;_blank&#34;&gt;LEOYoon-Tsaw&lt;/a&gt; 爲 Rime 輸入法引擎所製蒼頡檢字法輸入方案，此版好處在於製作時參與者眾，使用者又可依自身用字習慣修正使用；但此版與傳說中的「官版」未必一致，當然，「官版」也未必勝過此版。&lt;/li&gt;
+&lt;li&gt;本文作者使用&lt;a href=&#34;https://github.com/LEOYoon-Tsaw/Cangjie6&#34; title=&#34;此版&#34; class=&#34;icon_external&#34; rel=&#34;noopener external&#34; target=&#34;_blank&#34;&gt;此版&lt;/a&gt;試着逐個輸入了&lt;a href=&#34;https://en.wikipedia.org/wiki/Ciyuan&#34; title=&#34;《辭源》&#34; class=&#34;icon_external&#34; rel=&#34;noopener external&#34; target=&#34;_blank&#34;&gt;《辭源》&lt;/a&gt;所收一萬多個字頭，期間亦曾對異體字、新舊字形輸入之類問題簡單分辨。這一萬多字大概涵蓋先秦古籍所出現的所有字頭，也包括了絕大部分兩漢至清之間（「後起」與「晚起」）產生的常用字。&lt;/li&gt;
+&lt;li&gt;結果顯示，在輸入方面，&lt;a href=&#34;https://github.com/LEOYoon-Tsaw/Cangjie6&#34; title=&#34;此版&#34; class=&#34;icon_external&#34; rel=&#34;noopener external&#34; target=&#34;_blank&#34;&gt;此版&lt;/a&gt;蒼頡檢字法全部覆蓋上述字頭，且大致能兼顧不同輸入習慣。&lt;/li&gt;
+&lt;li&gt;如旣有「兼」（的的廿金hhtc：合《說文》字源），也有「兼」（金一止金cmxc：合「舊字形」），也有「兼」（廿止金：合楷化與手寫風格）；旣有「研」（一口一十十），也有「研」（一口一廿）。（各機器與頁面字體支持情形不一，以上三個字形，頁面未必能區別開來）&lt;/li&gt;
+&lt;li&gt;當然，若使用者不特別修正，此版極個別字碼之定立或可商榷，極個別字碼之定立也未能兼顧其各種字形輸入習慣。如「冒」字碼只有「日月山abu」而無「月月山bbu」，「曼」字碼只有「日田中水awle」而無「月田中水bwle」。&lt;/li&gt;
+&lt;li&gt;結論：權衡&lt;strong&gt;檢索&lt;/strong&gt;效率與&lt;strong&gt;輸入&lt;/strong&gt;效率，在三、五、六之間，個人更偏愛「六代」。涵蓋近八萬字頭的碼表，大致滿足古籍、簡體、異體字、新舊字形等各種輸入需求。再也不必爲文獻中出現的某個稀奇古怪的字而煩惱了。&lt;/li&gt;
+&lt;li&gt;當然，對多數用戶而言，目前許多拼音輸入法也完全可以滿足使用需求，&lt;strong&gt;毫無必要&lt;/strong&gt;浪費寶貴的生命年華學習這玩意兒。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;倉頡字母&#34;&gt;倉頡字母&lt;/h1&gt;
+&lt;p&gt;對應英文字母A-Z，倉頡輸入法也有26個「倉頡字母」（字根）：&lt;/p&gt;</description>
+        
+        <dc:creator>Duōyú Rén</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Cāngjié</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>map[categories:[備忘] draft:false password:&lt;nil&gt;]</category>
+            
+          
+        
+      </item>
+    
+  </channel>
+</rss>

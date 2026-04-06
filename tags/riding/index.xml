@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Riding on Duōyú Rén</title>
+    <link>https://duoyu.ren/tags/riding/</link>
+    <description>Recent content in Riding on Duōyú Rén</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mail@duoyu.ren (Duōyú Rén)</managingEditor>
+    <webMaster>mail@duoyu.ren (Duōyú Rén)</webMaster>
+    <copyright>&amp;copy;2013-{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 19 Dec 2022 15:52:18 +0800</lastBuildDate>
+    
+        <atom:link href="https://duoyu.ren/tags/riding/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      <item>
+        <title>XDS 小屌絲騎行紀</title>
+        <link>https://duoyu.ren/essay/2022_12_19_xds_riding/</link>
+        <pubDate>Mon, 19 Dec 2022 15:52:18 +0800</pubDate>
+        <author>mail@duoyu.ren (Duōyú Rén)</author>
+        <atom:modified>Wed, 14 Jan 2026 11:43:36 +0800</atom:modified>
+        <guid>https://duoyu.ren/essay/2022_12_19_xds_riding/</guid>
+        <description>&lt;h1 id=&#34;江左夢遙&#34;&gt;江左夢遙&lt;/h1&gt;
+&lt;p&gt;客居海涯，案頭久坐。九月下旬的一場小病，令人頓悟而萌發騎行運動的念頭。蓋腿腳不便久站、徒步，騎行算折中的辦法。從醫院出來，路過一家喜德盛專賣店，順路購買了一輛公路自行車（車型很好看，爲買菜做醜了）。&lt;/p&gt;</description>
+        
+        <dc:creator>Duōyú Rén</dc:creator>
+        <media:content url="https://duoyu.ren//blog/2022/20221219-00.18lyq3llx6qo.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>riding</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>map[Serif:false Simpcn:false autonumbering:true categories:[隨想] draft:false enableFontawesome:true password:&lt;nil&gt;]</category>
+            
+          
+        
+      </item>
+    
+  </channel>
+</rss>
