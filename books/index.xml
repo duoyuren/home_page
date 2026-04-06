@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>手搓書冊 on Duōyú Rén</title>
+    <link>https://duoyu.ren/books/</link>
+    <description>Recent content in 手搓書冊 on Duōyú Rén</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <copyright>&amp;copy;2013-{year}, All Rights Reserved</copyright>
+    <atom:link href="https://duoyu.ren/books/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

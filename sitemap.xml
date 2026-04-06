@@ -5,38 +5,20 @@
     <loc>https://duoyu.ren/books/logos/ch00/</loc>
     <lastmod>2023-03-18T14:28:36+08:00</lastmod>
   </url><url>
-    <loc>https://duoyu.ren/books/zgwx/ch01/</loc>
-    <lastmod>2026-01-22T09:46:48+08:00</lastmod>
-  </url><url>
     <loc>https://duoyu.ren/books/logos/ch01/</loc>
     <lastmod>2023-03-18T14:28:42+08:00</lastmod>
-  </url><url>
-    <loc>https://duoyu.ren/books/zgwx/ch02/</loc>
-    <lastmod>2022-10-02T23:51:05+08:00</lastmod>
   </url><url>
     <loc>https://duoyu.ren/books/logos/ch02/</loc>
     <lastmod>2023-09-02T13:39:40+08:00</lastmod>
   </url><url>
-    <loc>https://duoyu.ren/books/zgwx/ch03/</loc>
-    <lastmod>2022-10-02T23:51:07+08:00</lastmod>
-  </url><url>
     <loc>https://duoyu.ren/books/logos/ch03/</loc>
     <lastmod>2023-03-18T14:28:49+08:00</lastmod>
-  </url><url>
-    <loc>https://duoyu.ren/books/zgwx/ch04/</loc>
-    <lastmod>2022-10-02T23:51:08+08:00</lastmod>
   </url><url>
     <loc>https://duoyu.ren/books/logos/ch04/</loc>
     <lastmod>2022-10-07T02:21:05+08:00</lastmod>
   </url><url>
-    <loc>https://duoyu.ren/books/zgwx/ch05/</loc>
-    <lastmod>2022-10-02T23:51:10+08:00</lastmod>
-  </url><url>
     <loc>https://duoyu.ren/books/logos/ch05/</loc>
     <lastmod>2022-10-07T02:21:05+08:00</lastmod>
-  </url><url>
-    <loc>https://duoyu.ren/books/zgwx/ch06/</loc>
-    <lastmod>2022-10-02T23:51:11+08:00</lastmod>
   </url><url>
     <loc>https://duoyu.ren/books/logos/ch06/</loc>
     <lastmod>2022-10-07T02:21:04+08:00</lastmod>
@@ -257,18 +239,6 @@
     <loc>https://duoyu.ren/about/</loc>
     <lastmod>2026-01-22T02:45:49+08:00</lastmod>
   </url><url>
-    <loc>https://duoyu.ren/publication/article/</loc>
-    <lastmod>2022-10-02T04:56:38+08:00</lastmod>
-  </url><url>
-    <loc>https://duoyu.ren/publication/book/</loc>
-    <lastmod>2022-10-02T04:56:38+08:00</lastmod>
-  </url><url>
-    <loc>https://duoyu.ren/publication/misc/</loc>
-    <lastmod>2022-10-02T04:56:38+08:00</lastmod>
-  </url><url>
-    <loc>https://duoyu.ren/publication/</loc>
-    <lastmod>2022-10-02T04:56:38+08:00</lastmod>
-  </url><url>
     <loc>https://duoyu.ren/essay/2020_01_07_fenshu_shuoming/</loc>
     <lastmod>2026-01-15T10:11:01+08:00</lastmod>
   </url><url>
@@ -290,12 +260,6 @@
     <loc>https://duoyu.ren/essay/2019_10_15_demos/</loc>
     <lastmod>2024-08-20T17:30:14+08:00</lastmod>
   </url><url>
-    <loc>https://duoyu.ren/tags/shortcode/</loc>
-    <lastmod>2026-01-22T09:46:48+08:00</lastmod>
-  </url><url>
-    <loc>https://duoyu.ren/books/zgwx/</loc>
-    <lastmod>2023-11-09T20:32:30+08:00</lastmod>
-  </url><url>
     <loc>https://duoyu.ren/books/logos/</loc>
     <lastmod>2023-09-02T14:41:50+08:00</lastmod>
   </url><url>
@@ -307,9 +271,6 @@
   </url><url>
     <loc>https://duoyu.ren/essay/2018_12_16_tex_hanyu_zhipai/</loc>
     <lastmod>2026-01-14T11:40:41+08:00</lastmod>
-  </url><url>
-    <loc>https://duoyu.ren/publication/article/article_any_folder_name_1/</loc>
-    <lastmod>2022-10-02T04:56:38+08:00</lastmod>
   </url><url>
     <loc>https://duoyu.ren/essay/2018_04_20_xuxingwu_de_fenggu/</loc>
     <lastmod>2026-01-20T07:43:11+08:00</lastmod>
@@ -326,9 +287,6 @@
     <loc>https://duoyu.ren/essay/2017_07_17_cangjie_zima/</loc>
     <lastmod>2026-01-14T11:39:57+08:00</lastmod>
   </url><url>
-    <loc>https://duoyu.ren/publication/book/book_any_folder_name_1/</loc>
-    <lastmod>2022-10-02T04:56:38+08:00</lastmod>
-  </url><url>
     <loc>https://duoyu.ren/essay/2017_05_13_mathjax_test/</loc>
     <lastmod>2023-10-23T13:40:17+08:00</lastmod>
   </url><url>
@@ -337,9 +295,6 @@
   </url><url>
     <loc>https://duoyu.ren/essay/2016_11_24_tikz_mcquail_figures/</loc>
     <lastmod>2026-01-22T02:36:35+08:00</lastmod>
-  </url><url>
-    <loc>https://duoyu.ren/publication/misc/misc_any_folder_name_1/</loc>
-    <lastmod>2022-10-02T04:56:38+08:00</lastmod>
   </url><url>
     <loc>https://duoyu.ren/essay/2016_10_15_zhmakeindex/</loc>
     <lastmod>2026-01-22T02:37:07+08:00</lastmod>
