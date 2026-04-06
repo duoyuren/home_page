@@ -25,7 +25,7 @@
         <link>https://duoyu.ren/essay/2023_01_15_greek_fonts/</link>
         <pubDate>Sun, 15 Jan 2023 14:51:03 +0800</pubDate>
         <author>mail@duoyu.ren (Duōyú Rén)</author>
-        <atom:modified>Wed, 21 Jan 2026 14:53:40 +0800</atom:modified>
+        <atom:modified>Mon, 06 Apr 2026 20:01:50 +0800</atom:modified>
         <guid>https://duoyu.ren/essay/2023_01_15_greek_fonts/</guid>
         <description>&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
 &lt;p&gt;此前整理邏輯學材料，需要用希臘字母抽象替代某些對象時都是以 TeX 命令實現。近來折騰通史材料，常常遇到古希臘人名與書名，難以用 TeX 命令逐個字母輸入，需要尋找支持希臘文排版的字型。經過幾天的蒐羅、測試、比對，發覺下列二十多種字型大體上可滿足古希臘文獻的排版。本文以下面兩句話及其對應的英、俄譯文簡單測試各字型的版式效果。&lt;/p&gt;</description>
